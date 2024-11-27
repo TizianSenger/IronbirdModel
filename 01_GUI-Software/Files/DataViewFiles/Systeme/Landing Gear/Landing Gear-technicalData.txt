@@ -1,0 +1,5 @@
+Räder: 2 (Hauptfahrwerk) + 1 (Bugfahrwerk)
+Dämpfung: Hydraulisch-pneumatisch
+Lenkung: Bugfahrwerk
+Bremse: Hauptfahrwerk
+Ausfahren: Normal- und Notausfahren

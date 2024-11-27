@@ -1,0 +1,8 @@
+Typ: lasergelenkte Bombe
+Hersteller: Lockheed Martin, Raytheon
+Entwicklung: 1976
+Stückpreis: $19.000
+Länge: 3,27 m
+Durchmesser: 273 mm
+Reichweite: 14,8 km
+Lenkung: Laser

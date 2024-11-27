@@ -1,0 +1,11 @@
+Kanone: 
+      - Mauser BK-27
+      - Kaliber 27 × 145 mm
+      - 1700 Schuss pro Minute
+
+Waffenstationen: 
+      - 4 x AMRAAM
+      - 2 x IRIS-T
+      - 1 x Tank
+      - 2 x Tank / Pylon
+      - 4 x Pylon

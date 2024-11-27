@@ -1,0 +1,10 @@
+Typ: Anti-Radar-Rakete
+Hersteller: MBDA
+Entwicklung: 1982
+Länge: 4.240 mm
+Durchmesser: 230 mm
+Gefechtsgewicht: 268 kg
+Spannweite: 730 mm
+Geschwindigkeit: 2.455 km/h
+Reichweite: 93 km
+Zielortung: Passiv-Radar

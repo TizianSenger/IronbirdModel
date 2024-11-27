@@ -1,0 +1,5 @@
+Masse Sitz: 105 kg
+Ausschuss bei: 1200 km/h
+: 19800 m
+Belastung: 15 g
+Raketenschub: 25,5 kN

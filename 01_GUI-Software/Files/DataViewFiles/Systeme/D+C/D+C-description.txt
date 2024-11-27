@@ -1,0 +1,2 @@
+Das Displays and Controls System ist das Man-Machine-Interface des Eurofighters. 
+Alle visuellen Ausgaben sowie die Eingaben des Piloten werden von ihm übernommen.

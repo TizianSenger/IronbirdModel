@@ -1,0 +1,3 @@
+Grundsysteme (General Systems) stellen die Grundfunktionalitäten eines Luftfahrzeuges zur Verfügung.
+
+Dazu gehören: Antrieb, Steuerung, Betriebsmittelversorgung, Versorgung des Piloten, Elektrik, Überwachung

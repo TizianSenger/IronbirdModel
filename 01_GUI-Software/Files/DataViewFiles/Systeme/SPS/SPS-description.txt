@@ -1,0 +1,4 @@
+Die Aufgabe des Secondary Power Systems ist die Versorgung aller erforderlichen Systeme mit elektrischem Strom und Druckluft. Dazu zählt im einzelnen:
+- Versorgung des Lfz am Boden mit Wechselstrom (APU-AC-Generator) und Druckluft (ECS)-Betrieb der APU
+- Anlassen eines Triebwerkes über die entsprechende Gearbox
+- Antrieb der Gearbox während des Fluges mechanisch über die PTO Shafts der laufenden TW

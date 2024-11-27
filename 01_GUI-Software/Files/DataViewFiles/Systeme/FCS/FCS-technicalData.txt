@@ -1,0 +1,6 @@
+4 x Flight Control Computer
+1 x Intertial Measurement Unit
+4 x Air Data Transducer
+1 x Stick
+2 x Throttle Box
+2 x Pedal

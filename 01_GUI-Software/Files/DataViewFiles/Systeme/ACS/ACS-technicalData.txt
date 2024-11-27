@@ -1,0 +1,10 @@
+(Enhanced) Safety Critical Armament Controller
+Non-Safety Critical Armament Controller 
+Distribution Unit (Signalverteiler, Außenlasten) 
+Fuselage Station Unit 
+(Rumpf-Außenlast-Dekodiergerät) 
+Integrated Tip Station Unit 
+(integrierter Flügelspitzen-Außenlast-Dekodiergerät) 
+Wing Pylon Station Unit 
+(Flügel-Außenlast-Dekodiergerät) 
+Gun Control Junction Box (Kanonenkontrollbox) 

@@ -1,0 +1,1 @@
+Das Ground Support System ist eine Kombination aus Hardware- und Softwarelösungen, mit denen das Flugzeug am Boden verwaltet werden kann. Es besteht aus aus dem Engineering Support Subsystem, dem Mission Support Subsystem und der Ground Loading und Data Transfer Unit.

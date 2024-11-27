@@ -1,0 +1,4 @@
+Stufen: einstufig
+Schaufeln: Einkristall-Laufschaufeln
+Deckbänder: nein
+Kühlung: Luftkühlung

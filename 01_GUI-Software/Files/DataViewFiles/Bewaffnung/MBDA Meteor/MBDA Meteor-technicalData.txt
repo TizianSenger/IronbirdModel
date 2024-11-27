@@ -1,0 +1,11 @@
+Typ: Luft-Luft-Rakete
+Hersteller: MBDA
+Entwicklung: 1997–2014
+Stückpreis: 900.000 EUR
+Länge: 3650 mm
+Durchmesser: 178 mm
+Gefechtsgewicht: 185 kg
+Antrieb: Feststoff-/ Staustrahltriebwerk
+Geschwindigkeit: Mach 4+
+Reichweite: etwa 200 km
+Zielortung: aktive Radarzielsuche

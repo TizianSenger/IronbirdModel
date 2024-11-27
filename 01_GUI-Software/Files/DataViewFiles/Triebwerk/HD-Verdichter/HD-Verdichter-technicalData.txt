@@ -1,0 +1,6 @@
+Typ: Axialverdichter
+Stufen: 5
+Fertigung: Stufe 3 BLISK
+Regelung: verstellbare Eintrittsleitschaufeln
+Drehrichtung: gegen den Uhrzeigersinn
+Verdichtung: 6,2 zu 1

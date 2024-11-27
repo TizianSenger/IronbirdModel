@@ -1,0 +1,3 @@
+Wechselstromnetz: 115V 400hz
+Gleichstromnetz: 28V
+

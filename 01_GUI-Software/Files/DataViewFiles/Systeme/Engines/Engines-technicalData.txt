@@ -1,0 +1,7 @@
+2 x Eurojet EJ 200
+Leistung: ca. 73.000 PS
+Schub ohne Nachbrenner 60 kN
+Schub mit Nachbrenner  90kN
+Verbrauch: 22 - 48g/kNs
+Turbinentemperatur: ca. 1800 K
+Verdichtung: ca. 25-1

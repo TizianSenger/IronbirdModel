@@ -1,0 +1,11 @@
+Typ: Seezielflugkörper
+Länge: 3,96 m
+Durchmesser: 500 mm
+Gefechtsgewicht: 345 kg (ohne Booster)
+Spannweite: 1.360 mm
+Antrieb: Feststoffbooster, TRI 40 Turbojet
+Geschwindigkeit: Mach 0,9
+Reichweite: 185 km
+Lenkung: INS und GPS
+Zielortung: Infrarot-Suchkopf
+Gefechtskopf: 125 kg Splittergefechtskopf

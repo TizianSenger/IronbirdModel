@@ -1,0 +1,11 @@
+Typ: Luft-Luft-Lenkwaffe
+Hersteller: Hughes Aircraft, Raytheon
+Indienststellung: 1991
+Stückpreis: ca. 1 Mio. USD
+Länge: 3,66 m
+Gefechtsgewicht: 162 kg
+Spannweite: 533 mm
+Antrieb: Feststoffrakete
+Geschwindigkeit: Mach 4
+Reichweite: ca. 100 km
+Zielortung: aktive Radarzielsuche

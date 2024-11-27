@@ -1,0 +1,9 @@
+Länge: 4,1 m
+Spannweite: 2,69 m
+Breite: 0,34 m
+Startgewicht: je nach Variante ca. 475 kg
+Antrieb: WJ24-8 Turbojet
+Geschwindigkeit: Unterschall
+Reichweite: je nach Variante 130-290 km
+Lenkung: GPS, INS, Datenlink, FLIR
+Gefechtskopf: 145 × BLU-97/B oder BROACH

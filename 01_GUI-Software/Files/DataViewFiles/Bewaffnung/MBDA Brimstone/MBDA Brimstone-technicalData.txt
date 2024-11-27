@@ -1,0 +1,11 @@
+Typ: Luft-Boden Panzerabwehrrakete
+Hersteller: MBDA, Boeing
+Indienststellung: 1999
+Länge: 1800 mm
+Durchmesser: 178 mm
+Gefechtsgewicht: 48,5 kg
+Spannweite: 300 mm
+Antrieb: Feststoffraketenmotor
+Reichweite: ca. 12 km+
+Zielortung: Aktives Millimeterwellen-Radar
+Gefechtskopf: 6,5 kg Tandemhohlladung

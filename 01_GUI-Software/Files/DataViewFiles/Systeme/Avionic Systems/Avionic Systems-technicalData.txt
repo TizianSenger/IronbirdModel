@@ -1,0 +1,8 @@
+Communications Subsystem (COMMS) 
+Integr. Monitoring a. Recording Sub-system (IMRS) 
+Displays and Controls Subsystem (D and C) 
+Defensive Aids Subsystem (DASS) 
+Armament Control Subsystem (ACS) 
+Attack and Identification Subsystem (A & I) 
+Radar Subsystem 
+Navigation Subsystem (NAV) 

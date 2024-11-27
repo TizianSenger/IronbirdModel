@@ -1,0 +1,7 @@
+Name: Ground Support System
+Bestandteile: Mission Support Subsystem
+: Engineering Support Subsystem
+: Ground Loading Unit
+Funktion: Verwaltung des EF am Boden
+: Wartung und Instandhaltung
+: Missionsdaten

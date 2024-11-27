@@ -1,0 +1,5 @@
+Die IRIS-T (Infra Red Imaging System Tail/Thrust Vector-Controlled) ist ein Luft-Luft-Lenkflugkörper mit Infrarotsuchkopf 
+für den Nah- und Nächstbereich. Er wurde von Deutschland zusammen mit sechs Staaten entwickelt, federführend bei der Entwicklung 
+war das Überlinger Unternehmen Diehl BGT Defence. Die IRIS-T gilt derzeit als eine der fortschrittlichsten Kurzstreckenraketen 
+der Welt und ermöglicht es dem Eurofighter Typhoon, Luftziele in einer Sphäre um das Flugzeug zu bekämpfen, 
+ohne sich in Abschussposition manövrieren zu müssen.

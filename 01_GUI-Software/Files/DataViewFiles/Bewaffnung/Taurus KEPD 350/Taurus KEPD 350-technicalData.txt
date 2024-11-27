@@ -1,0 +1,11 @@
+Bezeichnung: TAURUS KEPD-350
+Indienststellung: 2005
+Navigation: GPS, INS, IBN, TRN
+Suchkopf: Abbildendes Infrarot (IIR)
+Reichweite: 350+ km
+Geschwindigkeit: Mach 0,6 - 0,95
+Länge: 5100 mm
+Breite: 1080 mm
+Höhe: 805 mm
+Spannweite: 2064 mm
+Gewicht: 1400 kg

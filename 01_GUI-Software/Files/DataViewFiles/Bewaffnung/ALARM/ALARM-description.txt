@@ -1,0 +1,7 @@
+Die ALARM (Air Launched Anti-Radiation Missile) ist eine Anti-Radar-Luft-Boden-Rakete von MBDA, die primär zur Unterdrückung 
+der feindlichen Luftverteidigung entwickelt wurde. In ihrer Rolle ähnelt die ALARM der US-amerikanischen AGM-88 HARM, 
+aber die Operationsweise ist unterschiedlich.
+Nach Abschuss der ALARM steigt sie auf eine Höhe von 13 Kilometern in Richtung der anvisierten Radarstellung. 
+Schaltet sich währenddessen die Radarstation ab, schaltet die Rakete die erste Stufe ihres Raketenantriebes ab und öffnet 
+einen Fallschirm und gleitet langsam Richtung Ziel/Boden. Geht die Radarstation nun wieder online, wirft die ALARM ihren 
+Fallschirm ab und zündet die zweite Stufe des Raketenantriebs und attackiert das Ziel.

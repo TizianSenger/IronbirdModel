@@ -1,0 +1,7 @@
+Bezeichnung: GBU-24 Paveway III
+Typ: lasergelenkte Bombe
+Hersteller: Lockheed Martin & Raytheon
+Entwicklung: 1983
+Länge: 4,39 m
+Durchmesser: 460 mm
+Sprengkopf: Mark 84 (900 kg)

@@ -1,0 +1,6 @@
+Die Hydraulik-Anlage liefert hydraulische Energie mit einem Druck von 280 bar (28000 kPa) und max. 4 l/Sekunde. Damit werden folgende Funktionen sichergestellt:
+- Umsetzung der Steuersignale auf die Steuerflächen 
+- Primäre und sekundäre Flugsteuerung (FCS)
+- Ein- und Ausfahren des Fahrwerks
+- Abbremsung und Lenkung des Lfz
+- Betrieb verschiedener Lfz-Subsysteme

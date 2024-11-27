@@ -1,0 +1,11 @@
+Typ: Marschflugkörper
+Hersteller: MBDA
+Indienststellung: 2002
+Stückpreis: 770.000–1,13 Mio. Euro
+Länge: 5,10 m
+Gefechtsgewicht: 1300 kg
+Spannweite: 3,00 m
+Antrieb: Microturbo TRI 60-30 Turbojet
+Geschwindigkeit: Mach 0,8
+Reichweite: ca. 450 km
+Gefechtskopf: 450 kg BROACH

@@ -1,0 +1,14 @@
+Der Eurofighter Typhoon ist ein zweistrahliges Mehrzweckkampfflugzeug, das von Deutschland, Italien, Spanien und Großbritannien in 
+Gemeinschaftsproduktion entwickelt und gebaut wird. Seine operationellen Einsatzgebiete umfassen Luftüberlegenheit und Luftraumüberwachung, 
+Abfangjagd, Unterdrückung und Zerstörung von Luftverteidigungsanlagen, Luftnahunterstützung, Angriff zur See, Strategischer Angriff und Aufklärung.
+
+Wegen der flexiblen Auslegung können zukünftige Missionen und Rollen relativ einfach implementiert werden. Diese Flexibilität basiert auf 
+fortschrittlicher Technik in den Bereichen Avionik, Sensorik und Waffenintegration. Das Kampfflugzeug ist damit in der Lage, nicht nur 
+verschiedene Rollen wahrzunehmen, sondern diese auch während einer einzigen Mission zu wechseln, wobei auch ein Wechsel zwischen Luft-Luft- und Luft-Boden-
+Einsatz möglich ist. Ein einziges Flugzeug für eine große Reihe an Einsatzprofilen reduziert Kosten, steigert die Effektivität und erleichtert die 
+Zusammenarbeit mit alliierten Streitkräften.
+
+In der Rolle des Luftüberlegenheitsjägers, für die er ursprünglich ausschließlich konzipiert wurde, kann der Eurofighter seine extreme Manövrierfähigkeit 
+sowie sein hohes Schub-Gewichts-Verhältnis voll ausspielen. Er kann mehrere feindliche Kampfflugzeuge gleichzeitig inner- wie außerhalb des sichtbaren 
+Bereichs bekämpfen, darüber hinaus aber auch diverse Bodenziele auf unterschiedliche Weise angreifen. Für diese vielfältigen Aufgaben stehen – neben einer 
+fest installierten 27-mm-Bordkanone – insgesamt 13 Außenlaststationen für verschiedenste Waffengattungen sowie Abwurftanks zur Verfügung.

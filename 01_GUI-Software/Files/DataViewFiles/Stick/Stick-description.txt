@@ -1,0 +1,8 @@
+Der EF wird über einen Steuerknüppel in der Mitte und einen Schubhebel auf der linken Seite gesteuert. 
+Auf beiden sind jeweils zwölf Schalter angebracht. Die Bedienung des Flugzeuges ist hoch automatisiert: 
+Bei einem Bombenangriff kann z. B. die Feuertaste permanent gedrückt gehalten werden, 
+die Bomben werden automatisch im richtigen Moment ausgeklinkt. Die Automatisierung ist dabei mehrschichtig angelegt: 
+Unerfahrene Piloten können einen hohen Grad wählen um sich besser auf Taktik und Flug zu konzentrieren, 
+während ein geringer Grad erfahrenen Piloten mehr Interaktionsmöglichkeiten mit dem System zur Verfügung stellt. 
+Im Regelfall wird die Maschine nach dem VTAS-Prinzip (Voice, Throttle & Stick) gesteuert, die häufigsten Befehle können 
+also nach dem HOTAS-Prinzip (Hands on Throttle and Stick) ausgewählt werden.

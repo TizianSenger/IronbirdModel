@@ -1,0 +1,7 @@
+Bestandteile des Nav-Subsystems
+- Microwave Landing System (MLS)
+- Radar-Altimeter (RadAlt)
+- Laser Inertial Navigation System (LINS)
+- Global Positioning System (GPS)
+- Tactical Air Navigation (Tacan)
+- Navigation Computer (NC)

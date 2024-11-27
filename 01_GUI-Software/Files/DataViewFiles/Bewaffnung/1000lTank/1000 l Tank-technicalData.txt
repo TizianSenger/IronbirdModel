@@ -1,0 +1,3 @@
+Volumen: 1000 l
+Anzahl: bis zu 3
+Flugprofil: Überschallflug möglich

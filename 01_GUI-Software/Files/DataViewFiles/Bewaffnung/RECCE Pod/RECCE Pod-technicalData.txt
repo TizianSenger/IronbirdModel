@@ -1,0 +1,5 @@
+Bezeichnung: Recce-Pod
+Hersteller: Airbus Defence and Space
+Sensoren: Zeiss KS153A Trilens
+: Zeiss KS153A Tri- / Pentalens
+: IR-Line Scanner

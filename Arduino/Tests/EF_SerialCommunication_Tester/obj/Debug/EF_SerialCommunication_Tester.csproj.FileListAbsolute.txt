@@ -1,0 +1,3 @@
+C:\Users\SETI157\Source\Repos\nagtsnegge\Ironbird_EF_Messemodell\Arduino\Tests\EF_SerialCommunication_Tester\obj\Debug\EF_SerialCommunication_Tester.csprojAssemblyReference.cache
+C:\Users\SETI157\Source\Repos\nagtsnegge\Ironbird_EF_Messemodell\Arduino\Tests\EF_SerialCommunication_Tester\obj\Debug\EF_SerialCommunication_Tester.CommunicationTester.resources
+C:\Users\SETI157\Source\Repos\nagtsnegge\Ironbird_EF_Messemodell\Arduino\Tests\EF_SerialCommunication_Tester\obj\Debug\EF_SerialCommunication_Tester.csproj.GenerateResource.cache

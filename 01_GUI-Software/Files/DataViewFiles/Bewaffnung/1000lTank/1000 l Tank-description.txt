@@ -1,0 +1,7 @@
+Abwurftanks werden verwendet, um die Reichweite des Eurofighters zu erhöhen. Die zylindrischen, 
+annähernd wie Bomben geformten Tanks werden an Außenlastträgern unter dem Rumpf und den Tragflächen angebracht 
+und können im Flug abgeworfen werden. Die abwerfbaren Zusatztanks können jedoch nicht an jeder Außenlaststation 
+und in beliebiger Konfiguration angebaut werden, da zum einen Anschlüsse an das interne Kraftstoffsystem erforderlich sind,
+und zum anderen die Lage des Schwerpunktes bei jedem Befüllungsgrad innerhalb der zulässigen Grenzen verbleiben muss.
+Die Kraftstoffzuführung des Flugzeugs wird so geschaltet, dass zuerst der Treibstoff aus den Zusatztanks in die 
+internen Kraftstofftanks umgefüllt wird.

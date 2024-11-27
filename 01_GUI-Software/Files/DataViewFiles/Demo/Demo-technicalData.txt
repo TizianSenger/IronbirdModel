@@ -1,0 +1,9 @@
+Tragflügel: Delta (53 °)
+Flügelstreckung: 2,39
+Flächenlast: 220 - 320 kg/m²
+Instabilität: 16 % MAC
+Treibstoffanteil: 0,312
+Schub/Gewicht: 1,76
+Geschwindigkeit: 
+      - Mach 2,35 
+      - (2495 km/h in 10975 m Höhe)

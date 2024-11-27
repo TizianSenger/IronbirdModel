@@ -1,0 +1,11 @@
+Name: Ground Loading Unit 
+CPU: Mobile PIII-500Mhz
+RAM: 256 MB DRAM/ECC (1GB max) 
+Länge: 430 mm
+Breite: 280 mm
+Höhe: 370 mm
+Gewicht: 20 kg
+Funktion: Software-Load auf EF
+Schnittstellen: STANAG 3910 (EFABUS) 
+: STANAG 3838 (MIL-STD-1553) 
+: RS-232-C (Maintenance)

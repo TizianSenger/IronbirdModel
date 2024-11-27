@@ -1,0 +1,4 @@
+Maximale Kraftstoffmenge:
+Singleseater: 7275 kg 
+Twinseater: 6590 kg
+Max. 3 externe 1000l Tanks 

@@ -1,0 +1,9 @@
+Komponenten des SPS
+- Air Turbine Starter/Motor
+- Gear Boxes
+- Auxiliary Power Unit
+- APU Control Unit
+- APU Non-Return Valve
+- SPS Air Ground Connector
+- Pressure Reduction and Shut-off Valve
+- PTO Shafts

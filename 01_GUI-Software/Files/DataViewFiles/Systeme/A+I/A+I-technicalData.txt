@@ -1,0 +1,7 @@
+Radarsystem (Antenne/Rechner)
+
+Infrarotsystem (FLIR/IRST)
+
+Information Friend or Foe (Interrogator/Transponder)
+
+Attack Computer

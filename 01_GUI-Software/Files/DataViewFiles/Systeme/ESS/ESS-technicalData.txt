@@ -1,0 +1,6 @@
+Netzwerkbasiert
+Auch als Stand Alone System
+Systemdatenspeicherung
+Auftragsverteilung
+Führungstool
+Wissensspeicher

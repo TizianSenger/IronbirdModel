@@ -1,0 +1,11 @@
+Kontrollfunktionen:
+      - Radar Air Combat Mode
+      - Air/Air Weapons Select
+      - Pitch/Roll Trim 
+      - Safety Interlock
+      - Weapon Commit 
+      - Gun/Missile
+      - Head Up Display
+      - Auto Pilot 
+      - Nose Wheel Steering 
+      - Identification Friend or Foe

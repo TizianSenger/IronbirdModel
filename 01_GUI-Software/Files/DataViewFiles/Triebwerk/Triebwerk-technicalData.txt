@@ -1,0 +1,11 @@
+Masse: 1000 kg
+Länge: 4 m
+Fan-Durchmesser: 0,74 m
+Bypassverhältnis: 0,4 zu 1
+Verdichtung : 4,2 zu 1 Fan
+                        26 zu 1 gesamt
+Turbinentemp.: 1800 K
+Verbrauch: 22 - 48 g/kNs
+Massedurchsatz: 76 kg/s
+Schub, trocken: 60 kN
+Schub, Nachbr.: 90 kN

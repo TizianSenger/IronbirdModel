@@ -1,0 +1,6 @@
+Komponenten des UCS
+- Front Computer
+- Maintenance Data Panel
+- Landing Gear Computer
+- Fuel Computers
+- SPS Computers

@@ -1,0 +1,2 @@
+Bei der Entwicklung der Struktur des Eurofighters wurde auf konsequenten Leichtbau geachtet. Ein sehr geringes Gewicht konnte durch neue Werkstoffe, hochintegrale Bauteile, Aufteilung der Lasten auf möglichst viele Bauteile und den Einsatz moderner Berechnungsmethoden erreicht werden.
+Neue Herstellungsmethoden sind unter anderem das Superplastic Forming und Diffusion Bonding.

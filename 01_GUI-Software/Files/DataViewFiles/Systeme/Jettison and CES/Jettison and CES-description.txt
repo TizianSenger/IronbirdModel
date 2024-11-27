@@ -1,0 +1,7 @@
+Das Jettison System dient dazu, im Notfall ausgewählte oder alle Außenlasten abzuwerfen. Das Crew Escape System dient der Sicherstellung folgender Funktionen:
+- Verlassen des Flugzeugs im Falle eines erheblichen Schadens
+- Überlebensfähigkeit der Besatzung nach Verlassen des Flugzeugs				
+- Ermöglichung des Einsatzes am Boden (Zero-Zero-Capability) 						
+- Redundante Sicherung der Crew Escape Funktionen
+
+Die Funktion des Crew Escape System ist unabhängig von allen anderen Flugzeugsystemen.

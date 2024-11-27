@@ -1,0 +1,5 @@
+Typ: Axialverdichter
+Stufen: 3
+Fertigung: BLISK, groﬂe Sehnenl‰nge
+Drehrichtung: im Uhrzeigersinn
+Verdichtung: 4,2:1

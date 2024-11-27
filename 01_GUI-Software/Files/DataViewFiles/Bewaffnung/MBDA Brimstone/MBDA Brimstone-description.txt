@@ -1,0 +1,7 @@
+Brimstone (deutsch: ‚Schwefel‘ oder ‚Zitronenfalter‘) ist eine britische Panzerabwehrlenkwaffe (englisch: Abk.: ‚ATGM‘ für 
+‚Anti Tank Guided Missile‘), die von MBDA für die Royal Air Force gebaut wird. Sie basiert auf dem Konzept der AGM-114 Hellfire, 
+die selbst jedoch nicht für die hohen Geschwindigkeiten der Jets geeignet ist.
+Zur Zielsuche nutzt die Brimstone einen aktiven Radarsuchkopf im 94-GHz-Band. Daneben verfügt die Rakete noch über einen 
+digitalen Autopilot sowie ein INS.
+Die Waffe verfügt über eine Tandemhohlladung, mit einer 300-g-Vorladung und einer 6,2-kg-Hauptladung, welche in der Lage ist, 
+auch moderne reaktive Panzerungen zu durchbrechen.

@@ -1,0 +1,10 @@
+Rechnernetz: 
+      - Stanag 3910 Bus (1000 Mbit/s)
+      - MIL-STD-1553 Bus (100 Mbit/s)
+
+Sensorfusion: 
+      - Radar
+      - Infrarot
+      - ESM
+      - MIDS
+      - Raketenwarner

@@ -1,0 +1,4 @@
+Typ: Ringbrennkammer
+Zerstäuber: 20 Zerstäuberdüsen
+Anlasser: 2 Anlasskraftstoffdüsen
+Zündung: 2 Hochenergie-Zündkerzen

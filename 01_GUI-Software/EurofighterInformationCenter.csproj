@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FE8797A1-A193-4B5D-9447-F68DB1CD5B5C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>EurofighterInformationCenter</RootNamespace>
+    <AssemblyName>EurofighterInformationCenter</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\maini\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>12</ApplicationRevision>
+    <ApplicationVersion>4.5.26.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>28DC0C19369AF617D4F2DB459E9507229CC984DA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>EurofighterInformationCenter_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Files\Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SharpDX, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1, processorArchitecture=MSIL">
+      <HintPath>packages\SharpDX.4.2.0\lib\net45\SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.DirectInput, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1, processorArchitecture=MSIL">
+      <HintPath>packages\SharpDX.DirectInput.4.2.0\lib\net45\SharpDX.DirectInput.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinTouch, Version=0.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Alteridem.WinTouch.0.1.1\lib\net20\WinTouch.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConfigSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfigSettings.Designer.cs">
+      <DependentUpon>ConfigSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contact.Designer.cs">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="datahandler.cs" />
+    <Compile Include="DataView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataView.Designer.cs">
+      <DependentUpon>DataView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DMXCommunicator.cs" />
+    <Compile Include="EurofighterControl.cs" />
+    <Compile Include="GlobalInputListener.cs" />
+    <Compile Include="InformationCenterMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformationCenterMainPage.Designer.cs">
+      <DependentUpon>InformationCenterMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logger.cs" />
+    <Compile Include="PresetManager.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="serialCom.cs" />
+    <Compile Include="taskbar.cs" />
+    <Compile Include="Visualisierung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visualisierung.Designer.cs">
+      <DependentUpon>Visualisierung.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ConfigSettings.resx">
+      <DependentUpon>ConfigSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact.resx">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataView.resx">
+      <DependentUpon>DataView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformationCenterMainPage.resx">
+      <DependentUpon>InformationCenterMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Visualisierung.resx">
+      <DependentUpon>Visualisierung.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="EurofighterInformationCenter_TemporaryKey.pfx" />
+    <None Include="Files\DataForMainPage\ButtonsTextInformationCenter.csv" />
+    <None Include="Files\ShowPresets\Bana.csv" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Files\Background.jpg" />
+    <Content Include="Files\BackroundPanelSelectButtons.jpg" />
+    <Content Include="Files\ButtonFace.PNG" />
+    <Content Include="Files\configBackground.jpg" />
+    <Content Include="Files\DataForMainPage\EF2000.txt" />
+    <Content Include="Files\DataForMainPage\matelogo.gif" />
+    <Content Include="Files\DataForMainPage\TCPConfigPortNumber.txt" />
+    <Content Include="Files\DataForMainPage\TCPConfigIPAdress.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\1000lbBomb\1000 lb Bomb-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\1000lbBomb\1000 lb Bomb-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\1000lbBomb\1000 lb Bomb.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\1000lTank\1000 l Tank-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\1000lTank\1000 l Tank-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\1000lTank\1000 l Tank.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\2000lbBomb\2000 lb Bomb-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\2000lbBomb\2000 lb Bomb-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\2000lbBomb\2000 lb Bomb.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\2000lTank\2000 l Tank-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\2000lTank\2000 l Tank-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\2000lTank\2000 l Tank.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\500lbBomb\500 lb Bomb-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\500lbBomb\500 lb Bomb-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\500lbBomb\500 lb Bomb.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AGM-65 Maverick\AGM-65 Maverick-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AGM-65 Maverick\AGM-65 Maverick-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AGM-65 Maverick\AGM-65 Maverick.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AGM-88 HARM\AGM-88 HARM-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AGM-88 HARM\AGM-88 HARM-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AGM-88 HARM\AGM-88 HARM.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-120 AMRAAM\AIM-120 AMRAAM-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-120 AMRAAM\AIM-120 AMRAAM-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-120 AMRAAM\AIM-120 AMRAAM.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-132 ASRAAM\AIM-132 ASRAAM-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-132 ASRAAM\AIM-132 ASRAAM-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-132 ASRAAM\AIM-132 ASRAAM.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-9 Sidewinder\AIM-9 Sidewinder-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-9 Sidewinder\AIM-9 Sidewinder-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\AIM-9 Sidewinder\AIM-9 Sidewinder.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\ALARM\ALARM-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\ALARM\ALARM-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\ALARM\ALARM.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Bewaffnung-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Bewaffnung-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Bewaffnung.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\CBLS-200\CBLS-200-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\CBLS-200\CBLS-200-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\CBLS-200\CBLS-200.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\IRIS-T\IRIS-T-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\IRIS-T\IRIS-T-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\IRIS-T\IRIS-T.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\JSOW\JSOW-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\JSOW\JSOW-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\JSOW\JSOW.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Kongsberg NSM\Kongsberg NSM-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Kongsberg NSM\Kongsberg NSM-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Kongsberg NSM\Kongsberg NSM.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Laser Design Pod\Laser Design Pod-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Laser Design Pod\Laser Design Pod-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Laser Design Pod\Laser Design Pod.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\MBDA Brimstone\MBDA Brimstone-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\MBDA Brimstone\MBDA Brimstone-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\MBDA Brimstone\MBDA Brimstone.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\MBDA Meteor\MBDA Meteor-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\MBDA Meteor\MBDA Meteor-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\MBDA Meteor\MBDA Meteor.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Paveway lll\Paveway lll-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Paveway lll\Paveway lll-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Paveway lll\Paveway lll.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Paveway ll\Paveway ll-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Paveway ll\Paveway ll-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Paveway ll\Paveway ll.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\RECCE Pod\RECCE Pod-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\RECCE Pod\RECCE Pod-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\RECCE Pod\RECCE Pod.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Storm Shadow\Storm Shadow-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Storm Shadow\Storm Shadow-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Storm Shadow\Storm Shadow.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Taurus KEPD 350\Taurus KEPD 350-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Taurus KEPD 350\Taurus KEPD 350-description.txt" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\Taurus KEPD 350\Taurus KEPD 350.png" />
+    <Content Include="Files\DataViewFiles\Bewaffnung\weapons-back.bmp.png" />
+    <Content Include="Files\DataViewFiles\Demo\Demo-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Demo\Demo-description.txt" />
+    <Content Include="Files\DataViewFiles\Demo\Demo.png" />
+    <Content Include="Files\DataViewFiles\EF2000\EF2000-description.txt" />
+    <Content Include="Files\DataViewFiles\EF2000\EF2000-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\EF2000\EF2000.png" />
+    <Content Include="Files\DataViewFiles\MaTE\Mate-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\MaTE\Mate-description.txt" />
+    <Content Include="Files\DataViewFiles\MaTE\Mate.png" />
+    <Content Include="Files\DataViewFiles\Stick\Stick-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Stick\Stick-description.txt" />
+    <Content Include="Files\DataViewFiles\Stick\Stick.png" />
+    <Content Include="Files\DataViewFiles\Systeme\A+I\A+I-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\A+I\A+I-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\A+I\A+I.png" />
+    <Content Include="Files\DataViewFiles\Systeme\ACS\ACS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\ACS\ACS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\ACS\ACS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Avionic Systems\Avionic Systems-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Avionic Systems\Avionic Systems-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Avionic Systems\Avionic Systems.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Comms\Comms-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Comms\Comms-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Comms\Comms.png" />
+    <Content Include="Files\DataViewFiles\Systeme\D+C\D+C-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\D+C\D+C-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\D+C\D+C.png" />
+    <Content Include="Files\DataViewFiles\Systeme\DASS\DASS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\DASS\DASS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\DASS\DASS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\ECS + LSS\ECS + LSS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\ECS + LSS\ECS + LSS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\ECS + LSS\ECS + LSS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Electric\Electric-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Electric\Electric-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Electric\Electric.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Engines\Engines-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Engines\Engines-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Engines\Engines.png" />
+    <Content Include="Files\DataViewFiles\Systeme\ESS\ESS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\ESS\ESS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\ESS\ESS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\FCS\FCS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\FCS\FCS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\FCS\FCS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Fuel\Fuel-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Fuel\Fuel-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Fuel\Fuel.png" />
+    <Content Include="Files\DataViewFiles\Systeme\General Systems\General Systems-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\General Systems\General Systems-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\General Systems\General Systems.png" />
+    <Content Include="Files\DataViewFiles\Systeme\GLU\GLU-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\GLU\GLU-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\GLU\GLU.png" />
+    <Content Include="Files\DataViewFiles\Systeme\GSS\GSS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\GSS\GSS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\GSS\GSS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Hydraulic\Hydraulic-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Hydraulic\Hydraulic-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Hydraulic\Hydraulic.png" />
+    <Content Include="Files\DataViewFiles\Systeme\IMRS\IMRS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\IMRS\IMRS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\IMRS\IMRS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Jettison and CES\Jettison and CES-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Jettison and CES\Jettison and CES-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Jettison and CES\Jettison and CES.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Landing Gear\Landing Gear-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Landing Gear\Landing Gear-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Landing Gear\Landing Gear.png" />
+    <Content Include="Files\DataViewFiles\Systeme\MSS\MSS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\MSS\MSS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\MSS\MSS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Nav\Nav-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Nav\Nav-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Nav\Nav.png" />
+    <Content Include="Files\DataViewFiles\Systeme\SPS\SPS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\SPS\SPS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\SPS\SPS.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Structure\Structure-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Structure\Structure-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Structure\Structure.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Systeme-back.bmp" />
+    <Content Include="Files\DataViewFiles\Systeme\systeme-back.png" />
+    <Content Include="Files\DataViewFiles\Systeme\Systeme-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Systeme-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\Systeme.png" />
+    <Content Include="Files\DataViewFiles\Systeme\UCS\UCS-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\UCS\UCS-description.txt" />
+    <Content Include="Files\DataViewFiles\Systeme\UCS\UCS.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Brennkammer\Brennkammer-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Brennkammer\Brennkammer-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Brennkammer\Brennkammer.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\engine-back.bmp" />
+    <Content Include="Files\DataViewFiles\Triebwerk\engine-back.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\HD-Turbine\HD-Turbine-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\HD-Turbine\HD-Turbine-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\HD-Turbine\HD-Turbine.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\HD-Verdichter\HD-Verdichter-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\HD-Verdichter\HD-Verdichter-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\HD-Verdichter\HD-Verdichter.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Nachbrenner\Nachbrenner-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Nachbrenner\Nachbrenner-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Nachbrenner\Nachbrenner.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\ND-Turbine\ND-Turbine-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\ND-Turbine\ND-Turbine-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\ND-Turbine\ND-Turbine.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\ND-Verdichter\ND-Verdichter-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\ND-Verdichter\ND-Verdichter-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\ND-Verdichter\ND-Verdichter.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Schubduese\Schubduese-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Schubduese\Schubduese-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Schubduese\Schubduese.png" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Triebwerk-technicalData.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Triebwerk-description.txt" />
+    <Content Include="Files\DataViewFiles\Triebwerk\Triebwerk.png" />
+    <Content Include="Files\Icon.ico" />
+    <Content Include="Files\DemoData.txt" />
+    <Content Include="Files\ScreenSave.mp4" />
+    <Content Include="Files\SoundEffects\angry-girl-144242.wav" />
+    <Content Include="Files\SoundEffects\Shot.wav" />
+    <None Include="Resources\rechter-pfeil.png" />
+    <None Include="Resources\linker-pfeil.png" />
+    <None Include="Resources\pfeilLinks.png" />
+    <None Include="Resources\pfeilRechts.png" />
+    <None Include="Resources\systeme-back.png" />
+    <None Include="Resources\engine-back.png" />
+    <None Include="Resources\systeme-back.bmp.png" />
+    <None Include="Resources\weapons-back.bmp.png" />
+    <None Include="Resources\weapons-back.bmp" />
+    <None Include="Resources\engine-back.bmp" />
+    <None Include="Resources\systeme-back.bmp" />
+    <None Include="Resources\BackgroundEF2000.jpg" />
+    <None Include="Resources\ButtonFace.PNG" />
+    <None Include="Resources\BackgroundDataView.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 und x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Files\SourceFilesBackground\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

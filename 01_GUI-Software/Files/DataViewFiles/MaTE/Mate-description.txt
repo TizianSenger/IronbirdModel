@@ -1,0 +1,4 @@
+MaTE dient in der Entwicklung und im Testbereich des Eurofighter zur Datenvisualisierung, Aufzeichnung und Stimulierung. 
+Es kommuniziert mit den Rechnern des Kampfflugzeuges über Militärische-Bussystem-Schnittstellen, sog. Mil.-bus-Karten. 
+Dabei werden Fiberoptic Interfaces im Highspeed-Bereich und konventionelle, geschirmte und verdrillte Leitungen im Low-Speed
+Bereich eingesetzt.

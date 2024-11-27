@@ -1,0 +1,11 @@
+Typ: Luft-Luft-Rakete
+Hersteller: Diehl BGT Defence
+Entwicklung: 1995 - 2005
+Stückpreis: 400.000 EUR
+Länge: 3 m
+Durchmesser: 127 mm
+Gefechtsgewicht: 88 kg
+Geschwindigkeit: Mach 3
+Reichweite: 25 km
+Zielortung: Infrarot-Suchkopf
+Gefechtskopf: 11,4 kg

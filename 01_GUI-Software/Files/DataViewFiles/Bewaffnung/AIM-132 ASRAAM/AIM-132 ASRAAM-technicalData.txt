@@ -1,0 +1,11 @@
+Typ: Luft-Luft-Rakete
+Hersteller: MBDA
+Indienststellung: 1998
+Stückpreis: 200.000 USD
+Länge: 2,9 m
+Gefechtsgewicht: 88 kg
+Spannweite: 450 mm
+Geschwindigkeit: Mach 3
+Reichweite: 15 km
+Zielortung: Infrarotsuchkopf
+Gefechtskopf: 10 kg

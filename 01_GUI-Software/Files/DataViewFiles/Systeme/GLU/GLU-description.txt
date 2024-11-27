@@ -1,0 +1,2 @@
+Die GLU ist ein gehärteter portabler Computer, der auf der COTS Technologie basiert und speziell für militärische Anwendungen konstruiert und qualifiziert wurde. Ein modulares Design stellt gute Wartbarkeit und Erweiterungsmöglichkeiten sicher.
+Das Gerät ist komplett elektromagnetisch abgeschirmt und Wasserdicht nach IP66, wodurch die Anwendung im Freien ermöglicht wird. Durch eine interne Heizung wird ein Einsatz zwischen -40 °C und 50 °C ermöglicht. Die GLU ist zur Verwendung in einer explosiven Atmosphäre zugelassen (Zone 1 in BS5345).

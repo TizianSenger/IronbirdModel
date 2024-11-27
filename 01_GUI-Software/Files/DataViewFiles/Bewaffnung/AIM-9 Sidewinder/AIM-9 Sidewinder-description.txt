@@ -1,0 +1,7 @@
+Die AIM-9 Sidewinder (AIM steht hierbei für Air Intercept Missile) ist eine wärmesuchende Kurzstrecken-Luft-Luft-Lenkwaffe 
+für den Einsatz durch Kampfflugzeuge und Kampfhubschrauber aus US-amerikanischer Produktion. Im Laufe der 
+inzwischen 50-jährigen Geschichte wurden mit der Sidewinder mehr Flugzeuge abgeschossen als mit jedem anderen Flugkörper. 
+Eine modifizierte Version wurde auch im bodengestützten MIM-72 Chaparral eingesetzt.
+Die Sidewinder hat einen hochexplosiven Sprengkopf und eine Infrarotlenkung. Ihre weiteren Bestandteile sind ein optischer 
+Zieldetektor, das Leitwerk und der Raketenmotor. Das Lenksystem leitet den Flugkörper direkt in die heißen Triebwerke des 
+Gegners (oder was der Flugkörper dafür hält).

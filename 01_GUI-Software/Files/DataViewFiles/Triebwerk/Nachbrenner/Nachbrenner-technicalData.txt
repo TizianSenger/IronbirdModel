@@ -1,0 +1,5 @@
+Kühlung: Bypassluft
+Zündung: Hot-Shot Verfahren
+Einspritzung: Kernstrom bei Teillast
+: Bypassstrom bei Volllast
+Verbrauch: 48 g/kNs

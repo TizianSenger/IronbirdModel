@@ -1,0 +1,3 @@
+Der CBLS (Carrier Bomb Light Stores) ist ein Träger für bis zu vier Übungsbomben, der für den Einsatz an Flugzeugen konzipiert 
+wurde. Ein CBLS beinhaltet vier ERU122 (EX) Ejector Release 
+Units und die zuzgehörige Elektronik. Statt Pyrotechnik können auch Druckluftkartuschen für die Ejectors eingesetzt werden.

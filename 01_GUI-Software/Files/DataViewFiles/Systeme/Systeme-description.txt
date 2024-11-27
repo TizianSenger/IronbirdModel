@@ -1,0 +1,8 @@
+Im Eurofighter werden die Sensordaten durch mehrere Subsysteme verarbeitet, um zu einem taktischen Gesamtbild 
+der Situation zusammengefügt zu werden. Die Avionik besteht dabei aus mehreren Computern, 
+die über Glasfaserleitungen nach Stanag 3910 verknüpft sind und bis zu 1.000 Mbit/s übertragen können. 
+Einzelne Systeme stellen auch „Inseln“ in der Avionik dar und werden erst über einen weiteren Rechner an das 
+Glasfasernetz angeschlossen. So sind die Subsysteme des Praetorian-Systems, die Systeme zur Freund-Feind-Abfrage, 
+die Flugzeug-Grundsysteme, das Waffenkontrollsystem und die Subsysteme des Cockpits über MIL-STD-1553-Datenbusse 
+verknüpft, die für einen geringeren Datendurchsatz von 100 Mbit/s ausgelegt sind. 
+Die komplette Software des Eurofighters ist in Ada geschrieben.

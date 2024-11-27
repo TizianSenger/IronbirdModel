@@ -1,0 +1,6 @@
+Hauptfunktionen
+- Mission Planning and Briefing
+- Squadron Management
+- Pilot Management
+- Communications
+- Crypto Management

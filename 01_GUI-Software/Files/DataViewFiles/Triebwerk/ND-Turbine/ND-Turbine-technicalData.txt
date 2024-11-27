@@ -1,0 +1,4 @@
+Stufen: einstufig
+Typ: Axialturbine
+Schaufeln: Einkristall-Laufschaufeln
+Kühlung: Luftkühlung

@@ -1,0 +1,9 @@
+Steuerflächen
+                        1: Canard
+                        2: Inboard-Flaperon
+                        3: Outboard-Flaperon
+                        4: Ruder
+                        5: Slat
+                        6: Airbrake
+                        7: Lufteinlass
+                        8: Bugradsteuerung

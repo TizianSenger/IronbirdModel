@@ -1,0 +1,7 @@
+Die Aerodynamik war die größte Herausforderung bei der Entwicklung des Eurofighters, da ein Kampfflugzeug 
+mit maximal möglicher Instabilität gebaut werden sollte. Um die notwendige Steuerbarkeit zu gewährleisten, 
+ist ein Fly-by-wire-System mit Fluglagecomputer erforderlich. Während bei weniger instabilen Delta-Canard-Flugzeugen 
+die Höhenleitwerke direkt vor und oberhalb der Tragfläche angebracht sind, wurden diese beim EF weit vorne angeordnet. 
+Grund dafür ist die Fähigkeit, die Nase des Flugzeugs von hohen Anstellwinkeln wieder herunter zu bekommen. 
+Bei einer Erhöhung des Anstellwinkels verschiebt sich der Druckpunkt der Tragfläche nach vorne, der EF wird noch instabiler. 
+Möchte der Pilot nun die Nase des Eurofighters nach unten drücken, sind große Anstellwinkel der Entenflügel notwendig.

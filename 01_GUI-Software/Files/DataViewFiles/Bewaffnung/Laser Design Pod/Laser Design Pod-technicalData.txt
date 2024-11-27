@@ -1,0 +1,8 @@
+Funktion: Navigation und Zielbeleuchtung
+Hersteller: Rafael / Northrop Grumman
+Länge: 2.20 m
+Durchmesser: 0.406 m
+Gewicht: 200 kg
+Sensoren: Infrarot, CCD-TV, Laser
+Einführung: Februar 2000
+Stückpreis: $1.4 m

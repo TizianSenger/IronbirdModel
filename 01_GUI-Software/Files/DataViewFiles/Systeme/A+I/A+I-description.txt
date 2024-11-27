@@ -1,0 +1,3 @@
+Das Attack und Ident Subsystem tastet seine Umgebung mittels Radar, Infrarot und der Freund-Feind-Abfrage ab.
+Es gibt die gewonnenen Erkenntnisse über Entfernungen, Geschwindigkeiten und Arten umgebender Objekte dem Piloten und den anderen Subsystemen des Eurofighter zur weiteren Verarbeitung ab.
+Der Attack-Computer ist als zentrale Recheneinheit für die Sensorfusion der Sensordaten zuständig.

@@ -1,0 +1,3 @@
+Das Comms-System dient zum Daten- und Sprachaustausch im Bereich der Radiokommunikation.
+Hierzu zählen das Multiple  Information and Distribution System (MIDS) für den Datenaustausch und die beiden Radios zur Sprachkommunikation. 
+Der Pilot erhält im Betrieb Unterstützung durch Sprachanweisungen bzw. Warnungen durch die Communications  and Audio Management Unit.

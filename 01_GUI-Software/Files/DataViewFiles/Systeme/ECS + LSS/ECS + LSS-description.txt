@@ -1,0 +1,2 @@
+Das Environmental Control System zieht von den Verdichtern der Triebwerke Abzapfluft.
+Diese Abzapfluft  wird herunter gekühlt, gefiltert und verteilt. Die wichtigsten Nutzer dieser Luft sind die Sauerstoffgewinnungsanalage, die Klimaanlage, die Computerkühlung und die Luftdruckanlage der Kabine sowie der Anti-G-Hose des Piloten.

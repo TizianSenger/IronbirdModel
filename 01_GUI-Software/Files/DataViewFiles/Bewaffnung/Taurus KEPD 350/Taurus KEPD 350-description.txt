@@ -1,0 +1,7 @@
+Der Taurus ist ein moderner Luft-Boden-Marschflugkörper für große Distanzen. Der Name ist eine Abkürzung für 
+Target Adaptive Unitary and Dispenser Robotic Ubiquity System. 
+Er wurde als Modulare Abstandswaffe (MAW) für verschiedene Nutzlasten und Missionen entwickelt. 
+Der Marschflugkörper ist das deutsch-schwedische Gegenstück zur parallel entwickelten britisch-französischen Storm Shadow. 
+Die Taurus KEPD-350 „Kinetic Energy Penetrator and Destroyer“ trägt den Gefechtskopf 
+MEPHISTO (Multi-Effect Penetrator High Sophisticated and Target Optimized). 
+Es handelt sich dabei um einen Tandem-Gefechtskopf, bestehend aus einer Vorhohlladung und dem Penetrator mit integriertem intelligentem Zünder.

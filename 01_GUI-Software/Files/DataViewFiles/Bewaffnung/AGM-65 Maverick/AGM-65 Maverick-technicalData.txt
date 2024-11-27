@@ -1,0 +1,11 @@
+Hauptfunktion: Taktische Luft-Boden-Rakete
+Hersteller: Hughes Aircraft; Raytheon
+Indienststellung: 1972 (US Air Force)
+Länge: 2,49 m
+Durchmesser: 30,5 cm
+Geschwindigkeit: 1.150 km/h
+Reichweite: 27 km (effektiv bis 16 km)
+Lenkung: elektro-optisch, infrarot, Laser
+Gefechtskopf: Hohlladung mit Kontaktzünder
+Zündung: Annäherung und Aufschlag
+Stückkosten: 64.100 US-Dollar (AGM-65B)

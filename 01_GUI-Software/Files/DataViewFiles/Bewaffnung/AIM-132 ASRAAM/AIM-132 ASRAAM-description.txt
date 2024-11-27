@@ -1,0 +1,6 @@
+Die AIM-132 ASRAAM (engl. Advanced Short Range Air-to-Air-Missile; dt. fortschrittliche Kurzstrecken-Luft-Luft-Rakete) 
+ist eine Entwicklung des Rüstungsunternehmes MBDA. Sie soll die AIM-9 Sidewinder in den Streitkräften Großbritanniens 
+und Australiens ablösen.
+Bedingt durch die Anforderung nach möglichst großer Abschussdistanz wurde der Flugkörper so widerstandsarm wie möglich entworfen. 
+Die Lenkrakete besteht im Prinzip aus drei Teilen: Sucher und Elektronik, Gefechtskopf und Antrieb. Die AIM-9X und die ASRAAM benutzen 
+den gleichen abbildenden Infrarotsuchkopf, der vom Unternehmen Raytheon entwickelt wurde.

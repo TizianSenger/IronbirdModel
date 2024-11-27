@@ -1,0 +1,13 @@
+# Binäre Dateien
+*.exe
+*.dll
+*.pdb
+
+# Benutzerdefinierte Bibliotheken
+/bin/
+/obj/
+
+# Visual Studio-Dateien
+.vscode/
+.vs/
+

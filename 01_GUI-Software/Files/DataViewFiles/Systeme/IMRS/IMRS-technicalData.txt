@@ -1,0 +1,8 @@
+Aufzeichnungsmöglichkeiten
+PDS: Portable Data Store
+VVR: Video Voice Recorder
+CSMU: Crash Survivable Memory Unit
+BSD: Bulk Storage Device
+ACVMU: Crypto Management Unit
+PMDS: Maintenance Data Store
+MDP: Maintenance Data Panel

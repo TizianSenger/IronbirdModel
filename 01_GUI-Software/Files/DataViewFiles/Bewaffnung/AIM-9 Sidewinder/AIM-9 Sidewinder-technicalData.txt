@@ -1,0 +1,11 @@
+Typ: Luft-Luft-Lenkwaffe
+Hersteller: Raytheon (u. a.)
+Indienststellung: 1956
+Stückpreis: AIM-9X 262.000 USD
+Länge: 2,85 m
+Durchmesser: 127 mm
+Gefechtsgewicht: 85 kg
+Antrieb: Feststoff-Raketenmotor
+Geschwindigkeit: Mach 2,5
+Reichweite: 17,7 km
+Gefechtskopf: 9,4 kg

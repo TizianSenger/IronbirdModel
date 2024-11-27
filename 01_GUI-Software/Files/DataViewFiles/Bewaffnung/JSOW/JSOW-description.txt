@@ -1,0 +1,5 @@
+Bei der AGM-154 Joint Standoff Weapon (JSOW) handelt es sich um eine präzisionsgelenkte Gleitbombe, die primär von den US-Streitkräften 
+eingesetzt wird. Produziert wird sie vom US-Konzern Raytheon. Als primäre Quelle für den nötigen Auftrieb dienen zwei Schwenkflügel, 
+die Lageregelung erfolgt durch vier kleine kreuzförmig angeordnete Flügel am Heck sowie zwei kleine horizontale Kontrollflächen. 
+Das GPS/INS-Navigationssystem erreicht einen CEP von unter drei Metern. Mittels eines Datenlinks kann die JASOW auch nach dem Abwurf 
+durch eine kompatible Plattform nachträglich mit neuen Daten versorgt werden.

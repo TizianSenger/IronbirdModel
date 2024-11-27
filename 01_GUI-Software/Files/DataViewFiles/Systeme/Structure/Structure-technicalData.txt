@@ -1,0 +1,5 @@
+Verwendetes Material
+Glasfaser: 70 %
+Kohlefaser: 12 %
+Metall: 15 %
+Andere: 3 %

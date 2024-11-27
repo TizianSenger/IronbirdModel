@@ -1,0 +1,6 @@
+Bezeichnung: CBLS-200
+Typ: Träger für Übungsbomben
+Abwurfgeschw.: 5-8 m/s
+Länge: 2464 mm
+Durchmesser: 422 mm
+Hakentyp: 14 Zoll und 30 Zoll

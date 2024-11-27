@@ -1,0 +1,6 @@
+Storm Shadow ist ein von Großbritannien und Frankreich entwickelter Marschflugkörper. Hersteller ist das europäische MBDA-Konsortium. 
+In Frankreich wurde er unter dem Namen SCALP in den Dienst gestellt.
+Der Flugkörper besitzt Tarnkappentechnik und wird durch ein Turbojet-Triebwerk auf eine Marschgeschwindigkeit von Mach 0,8 beschleunigt. 
+Die Navigation erfolgt über ein internes Inertiales Navigationssystem und ein Global Positioning System. Zusammen mit einem TREPROM-System 
+steuert die Storm Shadow ihr Zielgebiet im Tiefflug, in einer Flughöhe von 30–40 m an. Für den Zielanflug verfügt sie über einen Infrarotsensor, 
+über den das Ziel verifiziert wird.

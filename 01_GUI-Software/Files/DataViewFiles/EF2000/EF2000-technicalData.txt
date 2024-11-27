@@ -1,0 +1,11 @@
+Spannweite: 10.95 m
+Länge: 15.96 m
+Flügelfläche: 51.2 m²
+Leermasse: 11000 kg
+Max. Gewicht: 23500 kg
+G Limits: +9/-3 g
+Schub (trocken): 60 kN
+Schub (Nachbr.): 90 kN
+Max. Flughöhe: > 55000 ft
+Stand - Abheben: < 8 s
+Geschwindigkeit: Mach 2.0

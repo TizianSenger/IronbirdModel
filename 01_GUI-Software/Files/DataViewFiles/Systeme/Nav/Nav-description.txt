@@ -1,0 +1,2 @@
+Die Hauptfunktionen des Navigation Systems sind die Navigation und das Steering während des Fluges. Für die Navigation stehen acht verschiedene Modi zur Verfügung, die je nach verfügbarer Datenquelle die Position des Flugzeugs mit Hilfe des Laser Inertial Navigation System (LINS), des Global Positioning System (GPS), des Multifunctional Information Distribution System (MIDS), des Flight Control Systems (FCS), einem Kalmanfilter und On-Top Fixes bestimmen.
+Die Steering Funktionalität ermöglicht das Abfliegen von Wegpunkten einer geplanten Route.

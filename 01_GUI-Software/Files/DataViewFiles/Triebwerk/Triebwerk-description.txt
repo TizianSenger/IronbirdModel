@@ -1,0 +1,6 @@
+Das Eurojet EJ200 ist ein Turbofantriebwerk des europäischen Herstellerkonsortiums Eurojet Turbo GmbH. 
+Das Triebwerk basiert auf dem britischen XG-40, und erlaubt dem Eurofighter Typhoon, dauerhaft im Überschall zu manövrieren. 
+Zu diesem Zweck wurde der Trockenschub gegenüber dem Turbo-Union RB199 bei gleichen Abmessungen massiv gesteigert. 
+Eine weitere Zielsetzung waren geringe Lebenszykluskosten. Dafür wurde auf die traditionelle Methode der Wartungsintervalle
+verzichtet und stattdessen eine moderne Triebwerksüberwachungseinheit (englisch Engine Monitoring Unit, kurz EMU) eingebaut, 
+um die Einsatzdauer ohne Sicherheitseinbußen zu verdoppeln.

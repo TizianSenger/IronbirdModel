@@ -1,0 +1,11 @@
+Typ: Luft-Boden-Rakete
+Bezeichnung: AGM-88 HARM
+Herkunftsland: USA
+Hersteller: Texas Instruments, Raytheon
+Einsatzzeit: 1985 bis heute
+Stückpreis: 284.000 US-Dollar
+Länge: 410 cm
+Durchmesser: 25 cm
+Gefechtsgewicht: 355 kg
+Geschwindigkeit: 2280 km/h
+Reichweite: 106 km
